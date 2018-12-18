@@ -9,7 +9,7 @@ Portfolio::Portfolio()
         , shareCount_{0u} {
 }
 bool Portfolio::IsEmpty() const {
-    return isEmpty_;
+    return 0 == shareCount_;
 }
 
 void Portfolio::Purchase(const string& symbol, unsigned int shareCount) {
