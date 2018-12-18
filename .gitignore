@@ -89,7 +89,6 @@ fabric.properties
 .idea/httpRequests
 
 # googleTest
-googletest-release-1.8.1/
 .idea/.name
 .idea/1.iml
 .idea/codeStyles/
